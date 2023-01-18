@@ -1,2 +1,2 @@
 # Web-Assignment
-Group 1 - M1
+Group 2 - M2
